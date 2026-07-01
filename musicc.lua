@@ -29,7 +29,7 @@ Void_0.ResetOnSpawn = false
 Void_0.IgnoreGuiInset = true
 Void_0.ScreenInsets = Enum.ScreenInsets.DeviceSafeInsets
 Void_0.DisplayOrder = 910
-Void_0.Parent = Service("StarterGui").StarterGui
+Void_0.Parent = Service("StarterGui")
 
 -- Service("StarterGui").StarterGui.GigsMusicUI.Toast
 local Void_1 = Instance.new("TextLabel")
